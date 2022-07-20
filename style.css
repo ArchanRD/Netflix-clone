@@ -395,13 +395,22 @@ nav .nav-right ul li .account-wh{
         object-fit: cover;
     }
 
+    .banner-content{
+        margin: 7vh 10px;
+    }
+
     .banner-content h1{
         font-size: 20px;
+    }
+
+    .row1{
+        margin: 10px 13px;
     }
 
     .row-heading{
         font-size: 25px;
         margin-top: 20px;
+        margin-left: 13px;
     }
 
     .row1 .movie-card{
